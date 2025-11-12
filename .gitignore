@@ -1,1 +1,10 @@
 venv/
+main/
+train/
+test/
+papers/
+segmented_characters/
+.DS_STORE
+.vscode/
+*.zip
+__pycache__/
