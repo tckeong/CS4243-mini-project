@@ -2,9 +2,12 @@ venv/
 main/
 train/
 test/
+cleaned_test/
+cleaned_train/
 papers/
 segmented_characters/
 .DS_STORE
 .vscode/
-*.zip
+train.zip
+test.zip
 __pycache__/
